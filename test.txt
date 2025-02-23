@@ -1,0 +1,6 @@
+Geospatial Engineering is a multidisciplinary field that integrates science, engineering, and 
+technology to collect, analyze, interpret, and visualize spatial data related to the Earth's 
+surface and its features. It encompasses a wide range of applications, from mapping and surveying to urban planning, 
+environmental monitoring, disaster management, and beyond. Geospatial engineers use advanced tools and technologies 
+to understand the spatial relationships 
+between physical, environmental, and human-made systems.
