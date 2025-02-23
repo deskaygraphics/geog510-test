@@ -4,3 +4,12 @@ surface and its features. It encompasses a wide range of applications, from mapp
 environmental monitoring, disaster management, and beyond. Geospatial engineers use advanced tools and technologies 
 to understand the spatial relationships 
 between physical, environmental, and human-made systems.
+
+Key Components of Geospatial Engineering:
+Geospatial Data Collection:
+
+Utilizes technologies like Global Navigation Satellite Systems (GNSS), Remote Sensing (satellites, drones, LiDAR), and surveying instruments to gather accurate spatial data.
+
+Geographic Information Systems (GIS):
+
+Software platforms like ArcGIS and QGIS are used to store, analyze, and visualize geospatial data, enabling decision-making for various applications.
